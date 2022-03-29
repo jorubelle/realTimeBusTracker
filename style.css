@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    
+  }
+  
+  .infoBox {
+    width: 400px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #e6a7a7b7;
+    border: 5px solid #0f0e0ec9;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+    position: absolute;
+    left: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+  }
+
+  button {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      background-color: darkcyan;
+      padding: 3px;
+  }
+
+  
+  
